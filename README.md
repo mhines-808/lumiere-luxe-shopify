@@ -80,7 +80,7 @@ Built in Looker Studio, connected to `ll_orders`, `ll_ga4_events`, and `rev_by_s
 - Funnel — sessions reaching each stage from session start through purchase
 - Revenue by traffic source (from the join)
 
-Full export: [`[dashboard.pdf](https://github.com/mhines-808/lumiere-luxe-shopify/blob/main/lumiere-luxe-looker-dashboard.pdf)`](./dashboard.pdf)
+Full export: Full export: [`lumiere-luxe-looker-dashboard.pdf`](https://github.com/mhines-808/lumiere-luxe-shopify/blob/main/lumiere-luxe-looker-dashboard.pdf)
 
 ## Key decisions
 
