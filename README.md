@@ -56,7 +56,7 @@ The app is deployed to Render with gunicorn, backed by Neon Postgres. The first 
 
 ## Business questions & SQL
 
-All 8 queries — covering revenue trends, order status, repeat customers, session/device breakdowns, the funnel, and the join for revenue by traffic source — are in [`[queries.sql](https://github.com/mhines-808/lumiere-luxe-shopify/blob/main/beauty_supply.sql)`](./queries.sql).
+All 8 queries — covering revenue trends, order status, repeat customers, session/device breakdowns, the funnel, and the join for revenue by traffic source — are in [`beauty_supply.sql`](https://github.com/mhines-808/lumiere-luxe-shopify/blob/main/beauty_supply.sql).
 
 | # | Question |
 |---|---|
